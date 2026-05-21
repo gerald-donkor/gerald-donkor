@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gerald 👋🚀
+Full-Stack & AI Engineer who loves building modern web experiences, crafting intelligent systems, and pushing the boundaries of what's possible with AI. 🌍✨
 
-<!--
-**gerald-donkor/gerald-donkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI 🎨
+- **Backend:** Node.js, Supabase, Prisma, Drizzle ORM, Firebase 🔥
+- **AI/ML:** LLMs, Vector Databases, OpenAI, LangChain 🤖🧠
+- **Languages:** TypeScript, Python 🐍
+- **Tools:** Git, GitHub, Figma 🧰
 
-Here are some ideas to get you started:
+## 🤖✨ Currently Fascinated By
+- How **LLMs & vector databases** are reshaping software development 🔮
+- **Multimodal AI** — machines that understand text, images & audio together 👁️🎙️📝
+- Building **AI-powered systems** that solve real problems 💡⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💛 What I Love
+- Building clean, scalable **full-stack applications** 🏗️
+- Integrating **AI into systems** in ways that feel natural and useful 🧩🤝
+- Tinkering with **AI tools** out of pure curiosity 🔬🕹️
+
+## 📬 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/gerald-donkor-46814a379)
+- 📧 geralddonkor1@gmail.com
+
+> 💡⚡ "I build full-stack applications and intelligent systems, end to end."
