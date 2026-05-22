@@ -1,25 +1,29 @@
-# Hi, I'm Gerald 👋🚀
-Full-Stack & AI Engineer who loves building modern web experiences, crafting intelligent systems, and pushing the boundaries of what's possible with AI. 🌍✨
+# Hi, I'm Gerald 👋
+
+Full-Stack Engineer who loves building modern, scalable web applications from database to UI. 🌍✨
 
 ## 🛠️ Tech Stack
+
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI 🎨
 - **Backend:** Node.js, Supabase, Prisma, Drizzle ORM, Firebase 🔥
-- **AI/ML:** LLMs, Vector Databases, OpenAI, LangChain 🤖🧠
 - **Languages:** TypeScript, Python 🐍
 - **Tools:** Git, GitHub, Figma 🧰
 
-## 🤖✨ Currently Fascinated By
-- How **LLMs & vector databases** are reshaping software development 🔮
-- **Multimodal AI** — machines that understand text, images & audio together 👁️🎙️📝
-- Building **AI-powered systems** that solve real problems 💡⚡
+## 🚀 What I Build
+
+- Clean, scalable **full-stack applications** with great UX 🏗️
+- **RESTful & real-time** backends that are fast and reliable ⚡
+- **Database-driven** systems with efficient data modeling 🗄️
 
 ## 💛 What I Love
-- Building clean, scalable **full-stack applications** 🏗️
-- Integrating **AI into systems** in ways that feel natural and useful 🧩🤝
-- Tinkering with **AI tools** out of pure curiosity 🔬🕹️
+
+- Turning ideas into **production-ready products** end to end 🎯
+- Writing **clean, maintainable code** that teams can build on 🧹✨
+- Obsessing over both **performance and design** 📐💅
 
 ## 📬 Let's Connect
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/gerald-donkor-46814a379)
 - 📧 geralddonkor1@gmail.com
 
-> 💡⚡ "I build full-stack applications and intelligent systems, end to end."
+> ⚡ "I build full-stack applications end to end — from database design to polished UI." 🖥️
