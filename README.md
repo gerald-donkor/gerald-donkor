@@ -6,6 +6,7 @@ Full-Stack Engineer who loves building modern, scalable web applications from da
 
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI 🎨
 - **Backend:** Node.js, Supabase, Prisma, Drizzle ORM, Firebase, PostgreSQL 🔥
+- **Cloud:** AWS, Vercel 🌐☁️
 - **Languages:** TypeScript, Python 🐍
 - **Tools:** Git, GitHub, Figma 🧰
 
