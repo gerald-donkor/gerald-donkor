@@ -1,30 +1,27 @@
-# Hi, I'm Gerald 👋
-
-Full-Stack Engineer who loves building modern, scalable web applications from database to UI. 🌍✨
+# Hi, I'm Gerald Donkor 👋
+Backend Engineer passionate about clean architecture, performance, and systems that just work. 🌍✨
 
 ## 🛠️ Tech Stack
-
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI 🎨
-- **Backend:** Node.js, Supabase, Prisma, Drizzle ORM, Firebase, PostgreSQL 🔥
-- **Cloud:** AWS, Vercel 🌐☁️
-- **Languages:** TypeScript, Python 🐍
-- **Tools:** Git, GitHub, Figma 🧰
+- **Languages:** TypeScript · Python
+- **Frameworks:** NestJS · FastAPI
+- **Databases:** PostgreSQL · MongoDB · Redis
+- **DevOps:** Docker · CI/CD · Linux
+- **Cloud:** AWS · GCP
+- **Other:** REST APIs · GraphQL · WebSockets · JWT Auth · Microservices
 
 ## 🚀 What I Build
-
-- Clean, scalable **full-stack applications** with great UX 🏗️
-- **RESTful & real-time** backends that are fast and reliable ⚡
+- Scalable **backend systems and services** that power great products 🏗️
+- **RESTful & real-time** APIs that are fast and reliable ⚡
 - **Database-driven** systems with efficient data modeling 🗄️
+- **Microservices architectures** that are modular and easy to scale 🔧
 
 ## 💛 What I Love
-
-- Turning ideas into **production-ready products** end to end 🎯
+- Designing **clean architecture** that scales without breaking 🎯
 - Writing **clean, maintainable code** that teams can build on 🧹✨
-- Obsessing over both **performance and design** 📐💅
+- Obsessing over **performance and reliability** under the hood 📐
 
 ## 📬 Let's Connect
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/gerald-donkor-46814a379)
 - 📧 geralddonkor1@gmail.com
 
-> ⚡ "I build full-stack applications end to end — from database design to polished UI." 🖥️
+> ⚡ "I build the part of the app you never see but always feel." 🖥️
