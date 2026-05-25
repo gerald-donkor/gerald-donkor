@@ -1,4 +1,4 @@
-# Hi, I'm Gerald Donkor 👋
+# Hi, I'm Gerald 👋
 Backend Engineer passionate about clean architecture, performance, and systems that just work. 🌍✨
 
 ## 🛠️ Tech Stack
