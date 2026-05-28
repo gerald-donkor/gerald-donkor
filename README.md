@@ -1,15 +1,17 @@
 # Hey, I'm Gerald 👋
+### AI Engineer | Software Engineer
 
-Software Engineer focused on building modern, scalable, and intelligent applications. I work across backend systems, cloud infrastructure, and AI/ML — building products that are fast, reliable, and impactful.
+I build intelligent, scalable, and high-performance applications — spanning AI systems, backend engineering, and cloud infrastructure. I'm focused on the intersection of software engineering, AI, and intelligent automation.
 
 ## What I Do
+- 🤖 **AI Engineering** — LLM-powered apps, RAG architectures, vector databases, AI workflow orchestration
 - ⚙️ **Software Engineering** — Scalable web & mobile apps, backend systems, REST APIs
-- 🤖 **AI Engineering** — LLM-powered apps, RAG architectures, AI workflow orchestration
 - ☁️ **Cloud & DevOps** — AWS, Docker, Vercel, deployment pipelines
-- 🧠 **System Design** — Scalable architecture, distributed systems, intelligent automation
+- 🧠 **System Design** — Scalable architecture, distributed systems, maintainable solutions
 
 ## What I Build
-- AI-powered applications & LLM-integrated systems
+- LLM-powered applications & AI-integrated systems
+- RAG pipelines, embeddings, and vector search infrastructure
 - Modern web & mobile applications and SaaS platforms
 - Backend services, REST APIs & distributed systems
 - Scalable full-stack products with real-world impact
@@ -52,10 +54,10 @@ Software Engineer focused on building modern, scalable, and intelligent applicat
 
 ## Interests
 - AI Engineering & Intelligent Systems
+- LLMs, RAG & Vector Databases
 - Backend Engineering & APIs
 - Cloud Infrastructure & DevOps
 - Distributed Systems & Scalable Architecture
-- LLMs, RAG, and Vector Databases
 - TechBio
 
 ## Let's Connect
