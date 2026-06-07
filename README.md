@@ -1,5 +1,5 @@
 # Hey, I'm Gerald 👋  
-### Software Engineer | AI Developer | UI/UX | Next.js  
+### SWE | Agentic Developer | UI/UX | Next.js  
 I'm a Software Engineer focused on building modern web applications using Next.js, with a strong emphasis on frontend engineering, UI/UX, and AI-powered features.
 I specialize in creating user-centric products where clean interfaces meet intelligent functionality.
 
