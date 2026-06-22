@@ -17,11 +17,6 @@ I specialize in creating user-centric products where clean interfaces meet intel
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ---
-### AI & Intelligence Layer
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![RAG Systems](https://img.shields.io/badge/RAG-Vector_Search-blue?style=flat)
----
 ### Agentic Development
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
