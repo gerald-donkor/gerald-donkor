@@ -1,6 +1,6 @@
 # Hey, I'm Gerald 👋  
 ### Software Engineer | Agentic Developer | Next.js  
-I'm a Software Engineer focused on building modern web applications using Next.js, with a strong emphasis on frontend engineering and AI-powered features.
+I'm a Software Engineer focused on building modern web applications using Next.js, with a strong emphasis on full-stack engineering and AI-powered features.
 I specialize in creating user-centric products where clean interfaces meet intelligent functionality.
 ---
 ## What I Do
