@@ -12,7 +12,7 @@
 
 I'm a Software Engineer focused on building modern web products with Next.js and AI-powered features. I enjoy turning ideas into scalable applications that combine thoughtful design, seamless user experiences, and practical functionality.
 
-My interests span product engineering, full-stack development, intelligent systems, and modern software architecture.
+My interests span product engineering, full-stack development(strong interest in frontend user experience), intelligent systems, and modern software architecture.
 
 ---
 
