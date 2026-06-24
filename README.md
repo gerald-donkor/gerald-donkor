@@ -2,7 +2,7 @@
 
 # Hey, I'm Gerald 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Product+Engineer+%7C+Next.js;Building+Modern+Web+Products;AI-Powered+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Product+Engineer+%7C+Next.js;Building+Modern+Web+Products;AI-Powered+Applications" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer focused on building modern web products with Next.js and AI-powered features. I enjoy turning ideas into scalable applications that combine great user experiences with practical functionality.
+I'm a Software Engineer focused on building modern web products with Next.js and AI-powered features. I enjoy turning ideas into scalable applications that combine thoughtful design, seamless user experiences, and practical functionality.
 
 My interests span product engineering, full-stack development, intelligent systems, and modern software architecture.
 
@@ -32,13 +32,12 @@ My interests span product engineering, full-stack development, intelligent syste
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python" />
 </p>
 
-### Agentic Development
+### AI Integration
 
 <p align="center">
-<img src="https://img.shields.io/badge/Claude_Code-Agentic_Development-CC785C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI_Codex-AI_Assisted_Coding-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Agents-Agentic_Workflows-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Workflow_Automation-22C55E?style=for-the-badge" />
 </p>
 
 ### Backend & Data
@@ -69,9 +68,9 @@ My interests span product engineering, full-stack development, intelligent syste
 ## 🎯 Current Focus
 
 * Building modern web products
-* AI-assisted development workflows
+* AI-powered user experiences
 * Scalable application architecture
-* Intelligent user experiences
+* Intelligent software workflows
 
 ---
 
