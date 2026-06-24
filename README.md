@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hey, I'm Gerald 👋
