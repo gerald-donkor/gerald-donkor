@@ -2,9 +2,7 @@
 
 # Hey, I'm Gerald 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Product+Engineer+%7C+Frontend+Engineer+%7C+Next.js;Building+Modern+Web+Products;Turning+Ideas+Into+Scalable+Applications;AI-Assisted+Development+%26+Intelligent+Experiences" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F5FF,25:4F46E5,50:8B5CF6,75:D946EF,100:FF4ECD&text=Modern%20Web%20%2B%20AI%20Products&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Product+Engineer+%7C+Next.js;Building+Modern+Web+Products;AI-Powered+Applications" alt="Typing SVG" />
 
 </div>
 
@@ -12,28 +10,26 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer focused on building modern web applications with a strong emphasis on product development, frontend engineering, and AI-powered experiences.
+I'm a Software Engineer focused on building modern web products with Next.js and AI-powered features. I enjoy turning ideas into scalable applications that combine great user experiences with practical functionality.
 
-I enjoy transforming ideas into intuitive, scalable, and production-ready products that combine thoughtful design with intelligent functionality.
+My interests span product engineering, full-stack development, intelligent systems, and modern software architecture.
 
 ---
 
 ## ⚡ What I Do
 
-* 🛠 Product Engineering
-* 🌐 Full-Stack Web Development
-* 🎨 Frontend & UI Engineering
-* 🤖 AI-Powered Features & Workflows
-* 🔌 API & Data Integration
+* 🚀 Product Engineering
+* ⚙️ Full-Stack Development
+* 🤖 AI-Powered Applications
 
 ---
 
 ## 🛠 Tech Stack
 
-### Core Technologies
+### Core
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python" />
 </p>
 
 ### Agentic Development
@@ -48,53 +44,34 @@ I enjoy transforming ideas into intuitive, scalable, and production-ready produc
 ### Backend & Data
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb&theme=dark" />
-</p>
-
-<p align="center">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### UI/UX & Design
+### Design
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### Tools & Workflow
+### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-* Building modern web products with Next.js
-* Product engineering and user-centered development
+* Building modern web products
 * AI-assisted development workflows
-* Scalable frontend architecture
-* Intelligent software experiences
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gerald-donkor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerald-donkor&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gerald-donkor&bg_color=0D1117&color=00F5FF&line=FF4ECD&point=FFFFFF&area=true&hide_border=true" />
-</p>
+* Scalable application architecture
+* Intelligent user experiences
 
 ---
 
@@ -113,9 +90,5 @@ I enjoy transforming ideas into intuitive, scalable, and production-ready produc
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 </p>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=gerald-donkor\&color=blueviolet\&style=for-the-badge)
 
 </div>
