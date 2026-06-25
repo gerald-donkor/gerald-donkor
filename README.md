@@ -70,7 +70,6 @@ My interests span product engineering, full-stack development (with a strong foc
 * Building modern web products
 * AI-powered user experiences
 * Scalable application architecture
-* Intelligent software workflows
 
 ---
 
