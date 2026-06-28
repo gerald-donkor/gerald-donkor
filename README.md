@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=28&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Design+Engineer;Building+Responsive,+User-Centered+Web+Products;Turning+Ideas+into+Production-Ready+MVPs;Next.js+•+React+•+TypeScript" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=28&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Design+Engineer;Building+Responsive+User-Centered+Web+Products;Turning+Ideas+into+Production-Ready+MVPs;Next.js+%7C+React+%7C+TypeScript" alt="Typing SVG"/>
 
 </div>
 
@@ -73,9 +73,9 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logoColor=black"/>
 </p>
 
 ## Tools
@@ -128,6 +128,6 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 
 *Building responsive digital products that people love to use.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,50:06B4D4,100:0F172A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,50:06B6D4,100:0F172A"/>
 
 </div>
