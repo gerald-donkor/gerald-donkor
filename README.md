@@ -2,13 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:06B6D4,100:8B5CF6&text=Gerald%20Donkor&fontAlignY=40&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Design+Engineer;Building+Responsive%2C+User-Centered+Web+Products;Turning+Ideas+into+Production-Ready+MVPs;Next.js+%7C+TypeScript+%7C+React" />
-
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gerald-donkor\&style=for-the-badge\&color=0ea5e9)](https://github.com/gerald-donkor)
-[![GitHub followers](https://img.shields.io/github/followers/gerald-donkor?style=for-the-badge)](https://github.com/gerald-donkor)
-[![GitHub Stars](https://img.shields.io/github/stars/gerald-donkor?affiliations=OWNER\&style=for-the-badge)](https://github.com/gerald-donkor)
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=28&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Design+Engineer;Building+Responsive,+User-Centered+Web+Products;Turning+Ideas+into+Production-Ready+MVPs;Next.js+•+React+•+TypeScript" alt="Typing SVG"/>
 
 </div>
 
@@ -16,7 +12,7 @@
 
 # 👋 About Me
 
-I'm a **Design Engineer** who builds modern, **responsive**, user-centered web products with a strong focus on design, user experience, and clean engineering.
+I'm a **Design Engineer** who builds modern, responsive, user-centered web products with a strong focus on design, user experience, and clean engineering.
 
 I enjoy taking ideas from **MVP to production**, creating products that are intuitive, scalable, and enjoyable to use.
 
@@ -26,19 +22,20 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🎨 Design
 
 * User-centered interfaces
 * Responsive web design
 * Design systems
-* UI animations
 * Interaction design
+* Motion & micro-interactions
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Engineering
 
@@ -49,6 +46,7 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 * Performance optimization
 
 </td>
+
 </tr>
 </table>
 
@@ -56,48 +54,34 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 
 # 🛠 Tech Stack
 
-## Core
+## Core Technologies
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python&perline=5"/>
-
 </p>
 
-## Backend & Data
+## Backend
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 </p>
 
-## Design
+## Design & Motion
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
-
 </p>
 
 ## Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux"/>
 </p>
 
 ---
@@ -106,35 +90,15 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 
 <div align="center">
 
-🟣 Modern SaaS Products
-
-🔵 Rapid MVP Development
-
-🟢 Interactive Experiences with GSAP
-
-🟠 Advanced Design Systems
-
-⚫ Product Architecture with Next.js
+|  🚀 | Focus Areas                           |
+| :-: | ------------------------------------- |
+|  ⚡  | Modern SaaS products                  |
+|  🎯 | Rapid MVP development                 |
+|  ✨  | Interactive web experiences with GSAP |
+|  🎨 | Design systems & reusable UI          |
+|  ▲  | Product architecture with Next.js     |
 
 </div>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gerald-donkor&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerald-donkor&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gerald-donkor&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -162,8 +126,8 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 
 ### 💡 Design first. Engineer with purpose.
 
-*Building responsive digital products that people genuinely enjoy using.*
+*Building responsive digital products that people love to use.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,50:06B6D4,100:0F172A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,50:06B4D4,100:0F172A"/>
 
 </div>
