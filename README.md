@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:06B6D4,100:8B5CF6&text=Gerald%20Donkor&fontAlignY=40&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=28&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Design+Engineer;Building+Responsive+User-Centered+Web+Products;Turning+Ideas+into+Production-Ready+MVPs;Next.js+%7C+React+%7C+TypeScript" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=1100&lines=Design+Engineer;Building+Responsive,+User-Centered+Web+Products;Turning+Ideas+into+Production-Ready+MVPs;Next.js+•+React+•+TypeScript" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+## About
 
 I'm a **Design Engineer** who builds modern, responsive, user-centered web products with a strong focus on design, user experience, and clean engineering.
 
@@ -18,7 +14,7 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 
 ---
 
-# 🚀 What I Do
+## What I Do
 
 <table>
 <tr>
@@ -52,15 +48,15 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-## Core Technologies
+### Core Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python&perline=5"/>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&perline=4"/>
 </p>
 
-## Backend
+### Backend
 
 <p align="center">
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -69,40 +65,40 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-## Design & Motion
+### Design & Motion
 
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge"/>
 </p>
 
-## Tools
+### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode"/>
 </p>
 
 ---
 
-# 🌱 Currently Exploring
+## Currently Exploring
 
 <div align="center">
 
-|  🚀 | Focus Areas                           |
+|  🚀 | Focus                                 |
 | :-: | ------------------------------------- |
 |  ⚡  | Modern SaaS products                  |
 |  🎯 | Rapid MVP development                 |
 |  ✨  | Interactive web experiences with GSAP |
-|  🎨 | Design systems & reusable UI          |
+|  🎨 | Design systems                        |
 |  ▲  | Product architecture with Next.js     |
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
 
@@ -124,10 +120,8 @@ I enjoy taking ideas from **MVP to production**, creating products that are intu
 
 <div align="center">
 
-### 💡 Design first. Engineer with purpose.
-
-*Building responsive digital products that people love to use.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,50:06B6D4,100:0F172A"/>
+> ### Design first. Engineer with purpose.
+>
+> *Building responsive digital products that people love to use.*
 
 </div>
