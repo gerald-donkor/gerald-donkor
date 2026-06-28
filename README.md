@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=34&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=1100&lines=Design+Engineer;Building+Responsive+User-Centered+Web+Products;Turning+Ideas+into+Production-Ready+MVPs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;Building+Responsive,+User-Centered+Web+Products" alt="Typing SVG" />
 
 </div>
 
@@ -8,21 +8,21 @@
 
 ## About
 
-I'm a **Design Engineer** who builds modern, responsive, user-centered web products with a strong focus on design, user experience, and clean engineering.
+I'm a **Design Engineer** who creates modern, responsive, user-centered web products by combining thoughtful design with clean, scalable engineering.
 
-I enjoy taking ideas from **MVP to production**, creating products that are intuitive, scalable, and enjoyable to use.
+From MVPs to production-ready applications, I enjoy crafting intuitive digital experiences that people love to use.
 
 ---
 
 ## What I Do
 
-I combine design and engineering to build polished digital products that are responsive, intuitive, and production-ready.
+I combine design and engineering to build products that are intuitive, performant, and production-ready.
 
 * 🎨 Responsive user interfaces
 * 🧩 Design systems & reusable UI components
 * 🚀 MVP development
-* ✨ Motion-rich experiences with GSAP
-* ⚙️ Frontend-focused full-stack products
+* ✨ Motion-rich interactions with GSAP
+* ⚙️ Frontend-focused full-stack applications
 
 ---
 
@@ -93,7 +93,5 @@ I combine design and engineering to build polished digital products that are res
 <div align="center">
 
 ### Design first. Engineer with purpose.
-
-*Building responsive, user-centered digital products from MVP to production.*
 
 </div>
