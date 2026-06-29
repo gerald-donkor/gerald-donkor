@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;Building+Responsive,+User-Centered+Web+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Product+Design+Engineer;Building+Responsive,+User-Centered+Web+Products" alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## About
 
-I'm a **Design Engineer** who creates modern, responsive, user-centered web products by combining thoughtful design with clean, scalable engineering.
+I'm a **Product Design Engineer** who creates modern, responsive, user-centered web products by combining thoughtful design with clean, scalable engineering.
 
 From MVPs to production-ready applications, I enjoy crafting intuitive digital experiences that people love to use.
 
@@ -16,7 +16,7 @@ From MVPs to production-ready applications, I enjoy crafting intuitive digital e
 
 ## What I Do
 
-I combine design and engineering to build products that are intuitive, performant, and production-ready.
+I combine product thinking, design, and engineering to build front-facing products that are intuitive, performant, and production-ready.
 
 * 🎨 Responsive user interfaces
 * 🧩 Design systems & reusable UI components
@@ -74,7 +74,7 @@ I combine design and engineering to build products that are intuitive, performan
 
 <p align="center">
 
-<a href="mailto:geralddonkor1@gmail.com">
+<a href="mailto:[geralddonkor1@gmail.com](mailto:geralddonkor1@gmail.com)">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -92,6 +92,6 @@ I combine design and engineering to build products that are intuitive, performan
 
 <div align="center">
 
-### Design first. Engineer with purpose.
+### Design products. Engineer experiences.
 
 </div>
