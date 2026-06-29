@@ -88,10 +88,4 @@ I combine product thinking, design, and engineering to build front-facing produc
 
 </p>
 
----
-
-<div align="center">
-
-### Design products. Engineer experiences.
-
 </div>
