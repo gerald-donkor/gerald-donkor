@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Product+Design+Engineer;Building+Responsive,+User-Centered+Web+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;Building+Responsive,+User-Centered+Web+Products" alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## About
 
-I'm a **Product Design Engineer** who creates modern, responsive, user-centered web products by combining thoughtful design with clean, scalable engineering.
+I'm a **Design Engineer** who creates modern, responsive, user-centered web products by combining thoughtful design with clean, scalable engineering.
 
 From MVPs to production-ready applications, I enjoy crafting intuitive digital experiences that people love to use.
 
