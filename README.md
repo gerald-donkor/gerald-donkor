@@ -10,7 +10,7 @@
 
 I create modern, responsive, user-centered web products by combining thoughtful design with clean, scalable engineering.
 
-From MVPs to production-ready applications, I enjoy crafting intuitive digital experiences that people love to use.
+Also, I enjoy crafting intuitive digital experiences that people love to use.
 
 ---
 
