@@ -63,7 +63,6 @@ I combine product thinking, design, and engineering to build front-facing produc
 ## Currently Exploring
 
 * 🚀 Building modern SaaS products
-* ⚡ Rapid MVP development
 * ✨ Motion-rich user experiences
 * 🎨 Design systems
 * ▲ Product architecture with Next.js
