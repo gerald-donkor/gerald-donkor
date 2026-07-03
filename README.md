@@ -15,7 +15,7 @@ I combine product thinking, design, and engineering to build user-centric, front
 
 * 🎨 Responsive, accessible interfaces
 * 🧩 Design systems & reusable components
-* ✨ Motion & 3D — GSAP, WebGL, Three.js
+* ✨ Motion & 3D — Motion.dev, GSAP, WebGL, Three.js
 * ⚡ Performance-focused, core web vitals in mind
 * 🤖 Fluent with AI coding tools
 * ⚙️ Full-stack apps & APIs, built with strong TypeScript
@@ -48,7 +48,7 @@ I combine product thinking, design, and engineering to build user-centric, front
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
