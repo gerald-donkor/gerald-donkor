@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Product+Design+Engineer;Building+Responsive,+User-Centered+Web+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Product+Engineer;Building+Responsive,+User-Centered+Web+Products" alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +21,6 @@ I combine product thinking, design, and engineering to build user-centric, front
 * 🎨 Responsive user interfaces
 * 🧩 Design systems & reusable UI components
 * 🚀 MVP development
-* ✨ Motion-rich interactions with GSAP
 * ⚙️ Frontend-focused full-stack applications
 
 ---
