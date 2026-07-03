@@ -8,7 +8,7 @@
 
 ## About
 
-Full-stack Engineer focused on creating modern, responsive, user-centered web products by combining thoughtful design with clean, scalable engineering.
+I create modern, responsive, user-centered web products by combining thoughtful design with clean, scalable engineering.
 
 What drives me is crafting digital experiences that feel intuitive — the kind people genuinely enjoy using.
 
