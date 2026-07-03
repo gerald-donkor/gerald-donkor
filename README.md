@@ -16,7 +16,7 @@ What drives me is crafting digital experiences that feel intuitive — the kind 
 
 ## What I Do
 
-I combine product thinking, design, and engineering to build user-centric, front-facing products that are secure, seamless, performant, and production-ready.
+I combine product thinking, design, and engineering to build user-centric, front-facing products that are seamless, performant, and production-ready.
 
 * 🎨 Responsive user interfaces
 * 🧩 Design systems & reusable UI components
