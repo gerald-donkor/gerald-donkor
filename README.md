@@ -75,11 +75,6 @@ I combine product thinking, design, and engineering to build user-centric, front
 
 ---
 
-## Open Source
-I contribute to and maintain a handful of open-source projects — check my pinned repos for examples of code quality and taste.
-
----
-
 ## Let's Connect
 <p align="center">
 <a href="mailto:geralddonkor1@gmail.com">
