@@ -17,7 +17,6 @@ I combine product thinking, design, and engineering to build user-centric, front
 * 🧩 Design systems & reusable components
 * ✨ Motion & 3D — Motion.dev, GSAP, WebGL, Three.js
 * ⚡ Performance-focused, core web vitals in mind
-* 🤖 Fluent with AI coding tools
 * ⚙️ Full-stack apps & APIs, built with strong TypeScript
 
 ---
