@@ -10,11 +10,10 @@ I create modern, responsive, user-centered web products by combining thoughtful 
 ---
 
 ## What I Do
-I combine product thinking, design, and engineering to build user-centric, front-facing products that are seamless, performant, and production-ready.
+Building front-facing products that are seamless, performant, and production-ready.
 
 * 🎨 Responsive, accessible interfaces
-* 🧩 Design systems & reusable components
-* ✨ Motion & 3D — Motion.dev, GSAP
+* ✨ Motion & GSAP
 * ⚡ Performance-focused, core web vitals in mind
 * ⚙️ Full-stack apps & APIs, built with strong TypeScript
 
