@@ -13,7 +13,7 @@ I create modern, responsive, user-centered web products by combining thoughtful 
 Building front-facing products that are seamless, performant, and production-ready.
 
 * 🎨 Responsive, accessible interfaces
-* ✨ Motion & GSAP
+* ✨ Motion, Shadcn UI Components & GSAP
 * ⚡ Performance-focused, core web vitals in mind
 * ⚙️ Full-stack apps & APIs, built with strong TypeScript
 
