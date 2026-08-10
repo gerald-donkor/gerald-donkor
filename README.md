@@ -5,7 +5,7 @@
 ---
 
 ## About
-I create modern, responsive, user-centered web products by combining thoughtful design with clean, scalable engineering.
+I create modern, responsive, front-facing web products by combining thoughtful design with clean, scalable engineering.
 
 ---
 
