@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=AI+Implementation+Engineer;Design+Engineer;Crafting+Interactive,+AI-Powered+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;AI+Implementation+Engineer;Crafting+Interactive,+AI-Powered+Web+Experiences" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,11 +12,11 @@ I create modern, responsive, and user-centric web products by combining thoughtf
 
 ## What I Do
 
-Building AI-powered and front-facing products that are seamless, performant, and production-ready.
+Building front-facing and AI-powered products that are seamless, performant, and production-ready.
 
-* 🤖 AI implementation — LLMs, AI APIs, agents & intelligent workflows
 * 🎨 Responsive, accessible interfaces
 * ✨ Motion, Shadcn UI Components & GSAP
+* 🤖 AI implementation — LLMs, AI APIs, agents & intelligent workflows
 * 🧠 RAG, AI agents, tool calling & AI-powered application features
 * 🧪 Rapid prototyping — from concept to working code
 * ⚡ Performance-focused, core web vitals in mind
