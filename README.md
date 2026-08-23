@@ -1,26 +1,26 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;AI+Implementation+Engineer;Crafting+Interactive,+AI-Powered+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;Fullstack+Developer;Crafting+Interactive,+Modern+Web+Experiences" alt="Typing SVG" />
 </div>
 
 ---
 
 ## About
 
-I create modern, responsive, and user-centric web products by combining thoughtful design with clean, scalable engineering and practical AI implementation.
+I create modern, responsive, and user-centric web products by combining thoughtful design with clean, scalable engineering.
 
 ---
 
 ## What I Do
 
-Building front-facing and AI-powered products that are seamless, performant, and production-ready.
+Building modern, full-stack products that are seamless, performant, and production-ready.
 
 * 🎨 Responsive, accessible interfaces
+* ⚛️ Next.js applications & full-stack development
 * ✨ Motion, Shadcn UI Components & GSAP
-* 🤖 AI implementation — LLMs, AI APIs, agents & intelligent workflows
-* 🧠 RAG, AI agents, tool calling & AI-powered application features
-* 🧪 Rapid prototyping — from concept to working code
-* ⚡ Performance-focused, core web vitals in mind
-* ⚙️ Full-stack apps & APIs, built with strong TypeScript
+* 💻 Full-stack web applications & APIs
+* 🧪 Rapid prototyping — from concept to working product
+* ⚡ Performance-focused, with Core Web Vitals in mind
+* ⚙️ TypeScript-first development across the stack
 
 ---
 
