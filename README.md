@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;Full-Stack+Developer;Crafting+Interactive,+Modern+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;Full-Stack+Developer;Crafting+Modern,+Interactive+Web+Experiences" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,12 +12,11 @@ I create modern, responsive, and user-centric web products by combining thoughtf
 
 ## What I Do
 
-Building modern, full-stack products that are seamless, performant, and production-ready.
+Building modern, front-facing products that are seamless, performant, and production-ready.
 
 * 🎨 Responsive, accessible interfaces
-* ⚛️ Next.js applications & full-stack development
+* ⚛️ Full-stack web applications & APIs with Next.js & NestJS
 * ✨ Motion, Shadcn UI Components & GSAP
-* 💻 Full-stack web applications & APIs
 * 🧪 Rapid prototyping — from concept to working product
 * ⚡ Performance-focused, with Core Web Vitals in mind
 * ⚙️ TypeScript-first development across the stack
@@ -27,7 +26,7 @@ Building modern, full-stack products that are seamless, performant, and producti
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,supabase,figma,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwind,nodejs,supabase,figma,git,github&theme=dark" />
 </div>
 
 <div align="center">
