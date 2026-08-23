@@ -6,13 +6,13 @@
 
 ## About
 
-I craft modern, responsive, and user-centric web products by combining thoughtful design with clean, scalable engineering.
+I craft responsive and user-centric web products by combining thoughtful design with clean, scalable engineering.
 
 ---
 
 ## What I Do
 
-Building front-facing products that are seamless, performant, and production-ready.
+Building modern, front-facing products that are seamless, performant, and production-ready.
 
 * 🎨 Responsive, accessible interfaces
 * ⚛️ Full-stack web applications & APIs with Next.js & NestJS
