@@ -30,6 +30,4 @@ Building modern, production-ready products across the stack, AI-integrated or ot
 <div align="center">
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 <img src="https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=motion&logoColor=fff312" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
