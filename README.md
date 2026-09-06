@@ -14,7 +14,7 @@ Building modern, production-ready products across the stack, AI-integrated or ot
 
 * 🎨 Responsive, accessible interfaces
 * ⚛️ Full-stack web applications & APIs with Next.js & NestJS
-* 🤖 AI feature implementation — LLM integrations, RAG pipelines, agentic workflows
+* 🤖 AI feature implementation — LLM integrations
 * ✨ Motion, Shadcn UI Components & GSAP
 * 🧪 Rapid prototyping — from concept to working product
 * ⚡ Performance-focused, with Core Web Vitals in mind
