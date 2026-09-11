@@ -36,6 +36,6 @@ I turn ideas into polished, interactive web products, combining design and engin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/greensock/greensock-original.svg" width="42" height="42" alt="GSAP" title="GSAP" />
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="42" height="42" alt="GSAP" title="GSAP" />
   <img src="https://cdn.simpleicons.org/framer/000000" width="42" height="42" alt="Motion" title="Motion" />
 </div>
