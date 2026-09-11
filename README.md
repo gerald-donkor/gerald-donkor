@@ -1,28 +1,30 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;Full-Stack+AI+Implementation+Engineer;Crafting+Modern,+Interactive+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;Full-Stack+Developer;Crafting+Modern,+Interactive+Web+Experiences" alt="Typing SVG" />
 </div>
 
 ---
 
 ## About
-I design and build modern web products — from full-stack applications to AI-powered features — blending thoughtful UI/UX with clean, scalable engineering to ship interfaces and systems that feel as good as they perform.
+
+I turn ideas into polished, interactive web products, combining design and engineering to build experiences that feel intuitive, fast, and good to use.
 
 ---
 
 ## What I Do
-Building modern, production-ready products across the stack, AI-integrated or otherwise.
 
-* 🎨 Responsive, accessible interfaces
-* ⚛️ Full-stack web applications & APIs with React and Next.js
-* 🤖 AI feature implementation — LLM integrations
-* ✨ Motion, Shadcn UI Components & GSAP
-* 🧪 Rapid prototyping — from concept to working product
-* ⚡ Performance-focused, with Core Web Vitals in mind
-* ⚙️ TypeScript-first development across the stack
+* 🎨 UI/UX and responsive interface development
+* ⚛️ Full-stack web applications with React, Next.js, and NestJS
+* ✨ Motion and interactive experiences with GSAP and Motion
+* 🧩 Reusable components and scalable frontend architecture
+* 🤖 AI-powered features and LLM integrations
+* 🧪 Rapid prototyping from concept to working product
+* ⚡ Performance, accessibility, and Core Web Vitals
+* ⚙️ TypeScript-first development
 
 ---
 
 ## Tech Stack
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwind,nodejs,supabase,figma,git,github&theme=dark" />
 </div>
