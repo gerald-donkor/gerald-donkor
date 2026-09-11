@@ -13,7 +13,7 @@ I design and build modern web products — from full-stack applications to AI-po
 Building modern, production-ready products across the stack, AI-integrated or otherwise.
 
 * 🎨 Responsive, accessible interfaces
-* ⚛️ Full-stack web applications & APIs with Next.js & NestJS
+* ⚛️ Full-stack web applications & APIs with Next.js
 * 🤖 AI feature implementation — LLM integrations
 * ✨ Motion, Shadcn UI Components & GSAP
 * 🧪 Rapid prototyping — from concept to working product
