@@ -30,6 +30,6 @@ I design and engineer polished, interactive web experiences, combining thoughtfu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42" height="42" alt="Supabase" title="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/greensock" width="42" height="42" alt="GSAP" title="GSAP" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWyuvw_2-8klDT7VzT3lkYy09MFOK3oI9xDgn02TUew&s=10" width="42" height="42" alt="GSAP" title="GSAP" />
   <img src="https://cdn.simpleicons.org/framer/000000" width="42" height="42" alt="Motion" title="Motion" />
 </div>
