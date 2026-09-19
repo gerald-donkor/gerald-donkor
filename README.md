@@ -39,7 +39,7 @@ I craft exceptional digital experiences and engineer scalable applications, comb
   <img src="https://cdn.simpleicons.org/sentry" width="42" height="42" alt="Sentry" title="Sentry" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/gsap" width="42" height="42" alt="GSAP" title="GSAP" />
-  <img src="https://cdn.simpleicons.org/motion" width="42" height="42" alt="Motion" title="Motion" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWyuvw_2-8klDT7VzT3lkYy09MFOK3oI9xDgn02TUew&amp;s=10" width="42" height="42" alt="GSAP" title="GSAP" />
+  <img src="https://cdn.simpleicons.org/motion/FFF312" width="42" height="42" alt="Motion" title="Motion" />
 
 </div>
