@@ -18,6 +18,7 @@ I'm a **Design Engineer and Full-Stack Developer** working across design and eng
 * 🖌️ Translate Figma designs into precise, production-ready experiences
 * ⚙️ Develop full-stack applications and features from frontend to backend
 * 🗄️ Design APIs, data models, and database-driven application architecture
+* ☁️ Build and deploy scalable applications with modern cloud infrastructure
 * ⚡ Optimize applications for performance, accessibility, and scalability
 * 🚀 Take products from concept and interface design to production
 
@@ -41,7 +42,10 @@ I'm a **Design Engineer and Full-Stack Developer** working across design and eng
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="42" height="42" alt="Prisma" title="Prisma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="42" height="42" alt="Supabase" title="Supabase" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="42" height="42" alt="Vercel" title="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
 
 </div>
