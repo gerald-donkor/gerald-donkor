@@ -6,21 +6,16 @@
 
 ## About
 
-I'm a **Design Engineer and Full-Stack Developer** working across design and engineering to craft thoughtful, intuitive digital experiences. I build polished interfaces, scalable applications, and end-to-end product experiences where strong design, clean architecture, and performance work together.
+I work across design and engineering to craft thoughtful digital experiences — polished interfaces, scalable applications, clean architecture, strong performance.
 
 ---
 
 ## What I Do
 
-* 🎨 Design and build polished, responsive interfaces with React, Next.js, and TypeScript
-* ✨ Craft fluid interactions, motion, and micro-interactions with GSAP and Motion
-* 🧩 Build reusable, accessible component systems and design-token-driven UI
-* 🖌️ Translate Figma designs into precise, production-ready experiences
-* ⚙️ Develop full-stack applications and features from frontend to backend
-* 🗄️ Design APIs, data models, and database-driven application architecture
-* ☁️ Build and deploy scalable applications with modern cloud infrastructure
-* ⚡ Optimize applications for performance, accessibility, and scalability
-* 🚀 Take products from concept and interface design to production
+* 🎨 **Design-to-Code** — Turn Figma designs into pixel-precise, production-ready interfaces
+* 🧩 **Component Systems** — Build reusable, accessible UI libraries driven by design tokens
+* ⚙️ **Product Engineering** — Ship features across the full stack, from UI to data layer
+* 🚀 **Launch & Scale** — Take ideas from concept to deployment
 
 ---
 
