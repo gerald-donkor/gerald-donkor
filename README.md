@@ -6,7 +6,7 @@
 
 ## About
 
-I work across design and engineering to craft thoughtful digital experiences — polished interfaces, scalable applications, clean architecture, strong performance.
+I work across design and engineering to craft thoughtful digital experiences — polished interfaces, scalable applications, clean architecture, and smooth performance.
 
 ---
 
