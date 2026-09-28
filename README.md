@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer+%26+Full-Stack+Developer;Crafting+Thoughtful+Digital+Experiences;Where+Design+Meets+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer;Crafting+Thoughtful+Digital+Experiences;Where+Design+Meets+Engineering" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,6 +13,7 @@ I work across design and engineering to craft thoughtful digital experiences —
 ## What I Do
 
 * 🎨 **Design-to-Code** — Turn Figma designs into pixel-precise, production-ready interfaces
+* ✨ **Motion & Interaction** — Craft fluid animations, micro-interactions, and intuitive interactive experiences
 * 🧩 **Component Systems** — Build reusable, accessible UI libraries driven by design tokens
 * ⚙️ **Product Engineering** — Ship features across the full stack, from UI to data layer
 * 🚀 **Launch & Scale** — Take ideas from concept to deployment
