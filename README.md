@@ -6,17 +6,16 @@
 
 ## About
 
-I work across design and engineering to craft thoughtful digital experiences — polished interfaces, scalable applications, clean architecture, and smooth performance.
+I work across design and engineering to craft thoughtful digital experiences — polished interfaces, scalable applications, clean architecture, and high performance.
 
 ---
 
 ## What I Do
 
 * 🎨 **Design-to-Code** — Turn Figma designs into pixel-precise, production-ready interfaces
-* ✨ **Motion & Interaction** — Craft fluid animations, micro-interactions, and intuitive interactive experiences
+* ✨ **Motion & Interaction** — Craft fluid animations and purposeful micro-interactions that feel intuitive.
 * 🧩 **Component Systems** — Build reusable, accessible UI libraries driven by design tokens
-* ⚙️ **Product Engineering** — Ship features across the full stack, from UI to data layer
-* 🚀 **Launch & Scale** — Take ideas from concept to deployment
+* ⚙️ **Product Engineering** — Ship scalable features across the full stack, from UI to data layer
 
 ---
 
