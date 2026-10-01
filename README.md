@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Software Engineer + Design Engineer;Crafting+Thoughtful+Digital+Experiences;Where+Design+Meets+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Software+Engineer+%26+Design+Engineer;Crafting+Thoughtful+Digital+Experiences;Where+Design+Meets+Engineering" alt="Software Engineer & Design Engineer" />
 </div>
 
 ---
@@ -13,7 +13,7 @@ I work across design and engineering to craft thoughtful digital experiences —
 ## What I Do
 
 * 🎨 **Design-to-Code** — Turn Figma designs into pixel-precise, production-ready interfaces
-* ✨ **Motion & Interaction** — Craft fluid animations and purposeful micro-interactions that feel intuitive.
+* ✨ **Motion & Interaction** — Craft fluid animations and purposeful micro-interactions that feel intuitive
 * 🧩 **Component Systems** — Build reusable, accessible UI libraries driven by design tokens
 * ⚙️ **Product Engineering** — Ship scalable features across the full stack, from UI to data layer
 
@@ -29,7 +29,7 @@ I work across design and engineering to craft thoughtful digital experiences —
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
 
   <img src="https://motion.dev/favicon.ico" width="42" height="42" alt="Motion" title="Motion" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWyuvw_2-8klDT7VzT3lkYy09MFOK3oI9xDgn02TUew&amp;s=10" width="42" height="42" alt="GSAP" title="GSAP" />
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="42" height="42" alt="GSAP" title="GSAP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" title="Figma" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" />
