@@ -6,7 +6,7 @@
 
 ## About
 
-I work across design and engineering to craft thoughtful digital experiences — polished interfaces, scalable applications, clean architecture, and high performance.
+I bridge design and engineering to build fast, polished products with user experience at the heart of every decision.
 
 ---
 
