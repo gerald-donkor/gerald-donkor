@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=4000&pause=1800&color=22D3EE&center=true&vCenter=true&width=1050&lines=Design+Engineer+%26+Software+Developer;Crafting+Thoughtful+Digital+Experiences;Where+Design+Meets+Engineering" alt="Design Engineer & Software Developer" />
-</div>
-
----
-
 ## About
 
 I bridge design and engineering to build fast, polished products with user experience at the heart of every decision.
