@@ -24,7 +24,10 @@ Building fast, polished products with user experience at the heart of every deci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
 
-  <img src="https://motion.dev/favicon.ico" width="42" height="42" alt="Motion" title="Motion" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/motion-dark.svg" />
+    <img src="./assets/motion-light.svg" width="42" height="42" alt="Motion" title="Motion" />
+  </picture>
   <img src="https://cdn.simpleicons.org/greensock/88CE02" width="42" height="42" alt="GSAP" title="GSAP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" title="Figma" />
 
