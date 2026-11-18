@@ -8,7 +8,6 @@ Building fast, polished products with user experience at the heart of every deci
 
 * 🎨 **Design-to-Code** — Turn Figma designs into pixel-precise, production-ready interfaces
 * ✨ **Motion & Interaction** — Craft fluid animations and purposeful micro-interactions that feel intuitive
-* 🧩 **Component Systems** — Build reusable, accessible UI libraries driven by design tokens
 * ⚙️ **Product Engineering** — Ship scalable features across the full stack, from UI to data layer
 
 ---
