@@ -4,14 +4,6 @@ Building fast, polished products with user experience at the heart of every deci
 
 ---
 
-## What I Do
-
-* 🎨 **Design-to-Code** — Turn Figma designs into pixel-precise, production-ready interfaces
-* ✨ **Motion & Interaction** — Craft fluid animations and purposeful micro-interactions that feel intuitive
-* ⚙️ **Product Engineering** — Ship scalable features across the full stack, from UI to data layer
-
----
-
 ## Tech Stack
 
 <div align="center">
