@@ -1,6 +1,6 @@
 ## About
 
-Shipping fast, polished full-stack products with user experience at the heart of every decision.
+Shipping fast, polished and scalable full-stack products.
 
 ---
 
