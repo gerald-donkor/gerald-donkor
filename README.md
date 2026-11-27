@@ -1,6 +1,6 @@
 ## About
 
-Shipping fast, polished, scalable full-stack products.
+Shipping fast, polished, scalable products.
 
 ---
 
